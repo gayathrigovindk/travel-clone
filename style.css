@@ -1,0 +1,85 @@
+*{  
+     
+     margin: 0;
+    padding: 0;
+}
+.nav-item{
+
+    font-size:30px;
+    
+}
+
+        /* background-image: url(https://scontent.fcjb3-3.fna.fbcdn.net/v/t1.6435-9/126810095_211663100320916_2226189245194487858_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_ohc=spDr_PN0cAUQ7kNvgG_2Hwx&_nc_ht=scontent.fcjb3-3.fna&oh=00_AYCA_e4hKQeGmFVqwQ08GkjB4RvVPVyAo12bUSsWlyrm-Q&oe=66E7DCC1); */
+/*     
+       background-size:cover;
+       height: 2500px;
+       width: 100%;
+       margin-right: 50px;
+        */
+
+
+.banner {
+    background-image: url(https://scontent.fcjb3-3.fna.fbcdn.net/v/t1.6435-9/126810095_211663100320916_2226189245194487858_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_ohc=spDr_PN0cAUQ7kNvgG_2Hwx&_nc_ht=scontent.fcjb3-3.fna&oh=00_AYCA_e4hKQeGmFVqwQ08GkjB4RvVPVyAo12bUSsWlyrm-Q&oe=66E7DCC1);
+        width:100%;
+        height: 2200px;
+
+        background-color: white; 
+        background-size:cover;
+
+       
+      }
+      .h1{
+        padding-top:80px;
+        padding-left: 200px;
+      }
+      .btn{
+        padding-top:80px;
+        padding-left: 500px;
+
+
+
+      }
+      .custom-size {
+        margin-top: 30px;
+        width: 1000px; 
+        height: 1200px; 
+      }
+      
+      
+       
+    
+    
+
+.card-body{
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-inner1 {
+    width: 60%;
+    margin: 6rem 4rem;
+    padding-top: 2%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    opacity: 2;
+}
+
+.carousel-inner1 h1 {
+    color: white;
+    font-size: 2.8vw;
+    text-align: center;
+    font-weight: 800;
+}
+
+.heading-centered {
+    border-bottom: 4px solid #00008B;
+    text-align: center;
+    display: block;
+}
+
+
+  
+
+  
